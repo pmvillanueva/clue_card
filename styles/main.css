@@ -1,0 +1,29 @@
+div {
+  background-color: #9C6537;
+  text-align: center;
+}
+
+h1 {
+  background-color: #683205;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: white;
+
+}
+
+ul {
+  background-color: white;
+  padding: 10px;
+  margin: 0 10px;
+  list-style: none;
+
+}
+
+span {
+  margin-right: 25px;
+
+}
+
+input {
+  margin: 0 2px;
+}
